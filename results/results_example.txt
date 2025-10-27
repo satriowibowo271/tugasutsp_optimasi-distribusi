@@ -1,0 +1,9 @@
+Status: Optimal
+Total cost (minimum): 980.0
+
+Allocation (units from warehouse -> store):
+W1 -> S1: 80.0
+W1 -> S4: 20.0
+W2 -> S2: 60.0
+W2 -> S3: 50.0
+W2 -> S4: 20.0
